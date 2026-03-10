@@ -11,3 +11,4 @@ frontend/.next/
 frontend/.vercel/
 web/
 neti_search/
+.env
